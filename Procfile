@@ -1,1 +1,1 @@
-web: gunicorn Traffic_app:app 
+web: gunicorn waste_app:app 
